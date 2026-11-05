@@ -27,3 +27,5 @@ baseline_outputs/
 # OS
 .DS_Store
 Thumbs.db
+
+cv_outputs/

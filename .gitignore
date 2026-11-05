@@ -1,0 +1,26 @@
+# Dataset
+NORMAL/
+PNEUMONIA/
+
+# Original dataset archives
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Models / checkpoints
+*.pth
+*.pt
+*.ckpt
+*.pkl
+
+# Generated outputs
+outputs/
+checkpoints/
+models/
+
+# OS
+.DS_Store
+Thumbs.db

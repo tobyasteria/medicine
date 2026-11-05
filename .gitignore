@@ -20,6 +20,7 @@ __pycache__/
 outputs/
 checkpoints/
 models/
+audit_outputs/
 
 # OS
 .DS_Store

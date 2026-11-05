@@ -22,6 +22,7 @@ checkpoints/
 models/
 audit_outputs/
 split_outputs/
+baseline_outputs/
 
 # OS
 .DS_Store
